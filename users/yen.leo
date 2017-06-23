@@ -330,7 +330,10 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="yen.20170108171733.15">## 2017Spring 網際內容管理課程
+<t tx="yen.20170108171733.15">&lt;section&gt;
+&lt;h1&gt;1&lt;/h1&gt;
+&lt;p&gt;
+## 2017Spring 網際內容管理課程
 ##郭育良的課程簡報
 
 ### 虎科大機械設計工程系
@@ -341,7 +344,8 @@ Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 
 [網際內容管理課程網誌](blog/index.html)
 
-
+&lt;/p&gt;
+&lt;/section&gt;
 </t>
 <t tx="yen.20170108171733.2">@language python
 import os
