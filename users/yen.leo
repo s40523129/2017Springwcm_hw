@@ -71,7 +71,7 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20170623135012.1">&lt;section&gt;
-&lt;h2&gt;&lt;/h2&gt;
+&lt;h2&gt;2&lt;/h2&gt;
 &lt;p&gt;
 PC+network-hardware 電腦加網路線安裝
 Ubuntu-Operating System 作業系統
@@ -81,9 +81,9 @@ Fossil scm-souce code configu ration
 SQlite3-fossil(5M)資料庫系統
 Linux-git(200M)
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135311.1">&lt;section&gt;
-&lt;h3&gt;&lt;/h3&gt;
+&lt;h3&gt;3&lt;/h3&gt;
 &lt;p&gt;
 Ipconfig/all
 Ping自己IP
@@ -99,9 +99,9 @@ Fossil commit-m
 Fossil remotw-urloff
 Fossil push
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135424.1">&lt;section&gt;
-&lt;h4&gt;&lt;/h4&gt;
+&lt;h4&gt;4&lt;/h4&gt;
 &lt;p&gt;
 甚麼叫機械設計:即便我不知道答案也會想辦法回答,設計是一種表達
 口語.文字.2D.實際.量化
@@ -111,9 +111,9 @@ Fossil push
 計:經過考量討論
 我們要虛實整合的工程師
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135500.1">&lt;section&gt;
-&lt;h5&gt;&lt;/h5&gt;
+&lt;h5&gt;5&lt;/h5&gt;
 &lt;p&gt;
 學校DNS
 2001:288:6004:17::7
@@ -126,23 +126,23 @@ SSD固態硬碟(不旋轉)
 SCST(small computer system interface)
 創新:自學力,執行力,想像力
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135528.1">&lt;section&gt;
-&lt;h6&gt;&lt;/h6&gt;
+&lt;h6&gt;6&lt;/h6&gt;
 &lt;p&gt;
 機械設計與網際網路相互的關聯性
 Proxy:跑單方,代理主機 IPV4→Proxy→IPV6
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135551.1">&lt;section&gt;
-&lt;h7&gt;&lt;/h7&gt;
+&lt;h7&gt;7&lt;/h7&gt;
 &lt;p&gt;
 機械設計與網際網路相互的關聯性
 Proxy:跑單方,代理主機 IPV4→Proxy→IPV6
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135607.1">&lt;section&gt;
-&lt;h8&gt;&lt;/h8&gt;
+&lt;h8&gt;8&lt;/h8&gt;
 &lt;p&gt;
 網路線分有遮蔽與無遮蔽  RJ-45
 白橙 傳送資料正極TX+
@@ -154,16 +154,16 @@ Proxy:跑單方,代理主機 IPV4→Proxy→IPV6
 白棕 無
 棕    無
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="leo.20170623135632.1">&lt;section&gt;
-&lt;h9&gt;&lt;/h9&gt;
+&lt;h9&gt;9&lt;/h9&gt;
 &lt;p&gt;
 跳線設定
 1.兩台電腦設IP位子和DNS
 2.設工作群
 3.把硬碟設共用
 &lt;/p&gt;
-&lt;section&gt;</t>
+&lt;/section&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
